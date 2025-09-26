@@ -1,6 +1,6 @@
 programa {
     funcao inicio() {
-        real num1, num2, num3, media
+        real num1, num2, num3, media2
         escreva("Digite o primeiro número: ")
         leia(num1)
         escreva("Digite o segundo número: ")
@@ -8,6 +8,6 @@ programa {
         escreva("Digite o terceiro número: ")
         leia(num3)
         media = (num1 + num2 + num3) / 3
-        escreva("A média é: ", media)
+        escreva("A média é: ", media2)
     }
 }
